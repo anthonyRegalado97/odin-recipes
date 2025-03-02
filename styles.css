@@ -14,3 +14,10 @@ body {
     color: blue;
     background-color: bisque;
 }
+
+.recipe-header {
+    color: red;
+    background-color: dodgerblue;
+    font-size: 75px;
+    text-align: center;
+}
