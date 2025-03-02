@@ -8,3 +8,9 @@ body {
     font-size: 55px;
 
 }
+
+.link {
+    font-size: 25px;
+    color: blue;
+    background-color: bisque;
+}
