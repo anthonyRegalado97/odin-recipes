@@ -1,0 +1,10 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-header {
+    color: green;
+    background-color: darkgray;
+    font-size: 55px;
+
+}
